@@ -1,2 +1,2 @@
 # Program-in-C-
-This contain the Data Structure programming in c++ language
+This contain the Program of different stream of Data Structure and Algorithm in c++ language
